@@ -1,9 +1,7 @@
 
 
 
-# #30DayMapChallenge 🌎🌏🌎
-
-![Themes for the maps. See more below.](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/master/images/map_challenge_themes_2020.jpg)
+# #30DayMapChallenge 🌎-)
 
 ## Daily social mapping project in November 2020
 The official repository for #30DayMapChallenge, It is a daily mapping/cartography/data visualization challenge aimed at the spatial community. 
@@ -54,6 +52,8 @@ Happy mapping!
 ## Data 🗺
 
 You can use **what ever data you want.** But here are a few sources which could help you to get started or give you new ideas 👇
+
+- PNCC open data: https://data-pncc.opendata.arcgis.com/
 
 - [OpenStreetMap](https://www.openstreetmap.org/)
 	- OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. If you seek for easy ways to get an extract of the data, you can check for [GeoFabrik](https://www.geofabrik.de/data/download.html) for Shapefiles or [osmdata.xyz](https://download.osmdata.xyz/) for GeoPackages or [Overpass API for GeoJSONs etc.](https://overpass-turbo.eu/) .
